@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means Clustering
 
-This project is part of a Data Science internship with CodeClause. The goal is to segment customers into distinct groups based on their purchasing behavior using K-Means clustering.
+This project is part of a Data Science internship with CodeClause (Project ID - #CC69853). The goal is to segment customers into distinct groups based on their purchasing behavior using K-Means clustering.
 
 ## Project Objective
 
